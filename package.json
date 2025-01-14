@@ -2,10 +2,10 @@
   "name": "v1",
   "description": "Personal Website V1",
   "version": "1.0.0",
-  "author": "Vedant Saraswat <vedantntpc@gmail.com>",
+  "author": "Adit Rastogi <f20221330@hyderabad.bits-pilani.ac.in>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vedantiitkgp/PortfolioWebsite"
+    "url": "https://github.com/RastogiAdit"
   },
   "keywords": [
     "gatsby"
