@@ -42,17 +42,17 @@ module.exports = {
       url: '/#jobs',
     },
     {
-      name: 'Featured',
+      name: 'Projects',
       url: '/#featured',
     },
     {
       name: 'Innovations',
       url: '/#innovations',
     },
-    {
-      name: 'Projects',
-      url: '/#projects',
-    },
+    // {
+    //   name: 'Projects',
+    //   url: '/#projects',
+    // },
     {
       name: 'Activities',
       url: '/#activities',
