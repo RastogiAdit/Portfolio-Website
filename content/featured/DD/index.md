@@ -2,7 +2,7 @@
 date: '3'
 title: 'Diabetes Detector'
 cover: 'DD.png'
-external: 'https://drive.google.com/file/d/1rVSdnJ3eG0qfQQYKB_Dlrchvky3DPrdm/view?usp=sharing'
+external: 'https://github.com/RastogiAdit/Diabetes-Detector'
 tech:
   - Python
   - Naive-Bayes Model
