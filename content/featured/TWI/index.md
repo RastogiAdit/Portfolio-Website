@@ -1,5 +1,5 @@
 ---
-date: '2025-12-29s'
+date: '2024-12-29'
 title: 'Fullstack Twitter Clone'
 cover: 'TWI.png'
 external: 'https://twitter-clone-hndj.onrender.com/'

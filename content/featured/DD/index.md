@@ -1,5 +1,5 @@
 ---
-date: '2025-12-25'
+date: '2024-12-25'
 title: 'Diabetes Detector'
 cover: 'DD.png'
 external: 'https://github.com/RastogiAdit/Diabetes-Detector'

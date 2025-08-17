@@ -1,5 +1,5 @@
 ---
-date: '2025-12-26'
+date: '2024-12-26'
 title: 'Loan Predictor'
 cover: 'LAP.png'
 external: 'https://github.com/RastogiAdit/Loan_Predict'

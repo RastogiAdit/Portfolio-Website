@@ -1,5 +1,5 @@
 ---
-date: '2025-12-28'
+date: '2024-12-28'
 title: 'Time Series Forecasting(Energy Consumption Forecasting) using LSTMs'
 cover: 'ECF.png'
 external: 'https://github.com/RastogiAdit/Time-Series-Energy-Consumption-Forecasting'
