@@ -18,7 +18,7 @@ During my time at BITS, I have actively pursued my passion for [Badminton](), co
 
 To gain hands-on experience, I interned at [Ankle Gaming Pvt. Ltd.]() as my [Practice School-I](https://www.bits-pilani.ac.in/practice-school/) in BITS, where I developed games using the Unity engine. This experience significantly enhanced my skills as a software engineer while also improving my teamwork and collaboration abilities.
 
-Currently, I am in my 3rd year, pursuing a Bachelor's degree in Computer Science and actively working on my Data Science minor with a focus on Machine Learning and Artificial Intelligence. I am dedicated to building a strong foundation in these fields while preparing for future placements and opportunities.
+Currently, I am in my 4th year, pursuing a Bachelor's degree in Computer Science and actively working on my Data Science minor with a focus on Machine Learning and Artificial Intelligence. I am dedicated to building a strong foundation in these fields while preparing for future placements and opportunities.
 
 My diverse experiences across academia, college have equipped me with a unique perspective on tackling complex technological challenges. I'm passionate about leveraging my skills in artificial intelligence and machine learning to drive innovation and create meaningful impact in the field of computer science.
 
