@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2025-08-17'
 title: 'Hand Gesture Recognition'
 cover: 'HSD.png'
 external: 'https://github.com/RastogiAdit/Sign-Language-Translator'
