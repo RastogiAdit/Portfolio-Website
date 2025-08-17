@@ -1,5 +1,5 @@
 ---
-date: '7'
+date: '1'
 title: 'Fullstack Twitter Clone'
 cover: 'TWI.png'
 external: 'https://twitter-clone-hndj.onrender.com/'
