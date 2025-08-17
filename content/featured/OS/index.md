@@ -1,5 +1,5 @@
 ---
-date: '2025-11-15'
+date: '2025-12-30'
 title: 'Elevator Manager Operating Systems'
 cover: 'OS.png'
 external: 'https://github.com/RastogiAdit/Elevator-Manager-Operating-Systems-Project'

@@ -1,5 +1,5 @@
 ---
-date: '2025-12-12'
+date: '2025-12-31'
 title: 'In-Eye Painting with Ex-GAN'
 cover: 'GEN.png'
 external: 'https://github.com/RastogiAdit/Eye-In-Painting-with-Exemplar-Generative-Adversarial-Networks-'
